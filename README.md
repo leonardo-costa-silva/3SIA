@@ -1,2 +1,2 @@
 # 3SIA2022
-# manutenção pelo desktop
+# manutenção pelo GITCMD
